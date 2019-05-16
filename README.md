@@ -7,10 +7,11 @@ In this tutorial, we have presented the steps of installing Tensorflow 1.1.0 on 
 
 Tensorflow installed on PYNQ FPGA
 
-Here is complete Step by Step tutorial [download PDF] : TensorFlow_Installation_on_PYNQ_Nov_6_2018 [https://logictronix.com/wp-content/uploads/2019/04/TensorFlow_Installation_on_PYNQ_Nov_6_2018.pdf]
-This Tutorial is based on the hillhao github. His steps is little fast, so we break down into the detail tutorial. The Tutorial PDF is attached on the attachment!
+Here is complete Step by Step tutorial [download PDF] : TensorFlow_Installation_on_PYNQ_Nov_6_2018 [https://logictronix.com/wp-content/uploads/2019/04/TensorFlow_Installation_on_PYNQ_Nov_6_2018.pdf].
 
-This tutorial also have been published at Hackster by our CEO, Krishna Gaihre:  https://www.hackster.io/gaihrekrishna/tensorflow-installation-on-pynq-44c132
+This Tutorial is based on the hillhao github. His steps is little fast, so we break down into the detail tutorial. The Tutorial PDF is attached on the above link!
 
-#tensorflow #pynq #FPGA #Machine #Learning #Python
+This tutorial also have been published at Hackster: https://www.hackster.io/gaihrekrishna/tensorflow-installation-on-pynq-44c132
+
+#Tensorflow #Pynq #FPGA #Machine #Learning #Python
 
